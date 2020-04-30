@@ -1,3 +1,4 @@
-Este projeto consiste na implementação de um controle básico de um forno
-industrial elétrico utilizando o FreeRTOS. O projeto foi desenvolvido
-utilizando o MCU ESP32.
+#Descrição básica:
+Este projeto consiste na implementação do controle básico de um forno
+industrial elétrico utilizando o FreeRTOS no MCU ESP32. Mais detalhes
+da implementação estão presentes nos comentários do código.
